@@ -1,0 +1,14 @@
+/Users/bernabeortega/Desktop/tarea2/tarea2/bin/Debug/net8.0/tarea2
+/Users/bernabeortega/Desktop/tarea2/tarea2/bin/Debug/net8.0/tarea2.deps.json
+/Users/bernabeortega/Desktop/tarea2/tarea2/bin/Debug/net8.0/tarea2.runtimeconfig.json
+/Users/bernabeortega/Desktop/tarea2/tarea2/bin/Debug/net8.0/tarea2.dll
+/Users/bernabeortega/Desktop/tarea2/tarea2/bin/Debug/net8.0/tarea2.pdb
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.AssemblyInfoInputs.cache
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.AssemblyInfo.cs
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.csproj.CoreCompileInputs.cache
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.dll
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/refint/tarea2.dll
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.pdb
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.genruntimeconfig.cache
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/ref/tarea2.dll
