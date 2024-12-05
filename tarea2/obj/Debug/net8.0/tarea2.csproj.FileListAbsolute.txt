@@ -12,3 +12,4 @@
 /Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.pdb
 /Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.genruntimeconfig.cache
 /Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/ref/tarea2.dll
+/Users/bernabeortega/Desktop/tarea2/tarea2/obj/Debug/net8.0/tarea2.sourcelink.json
